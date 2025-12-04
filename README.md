@@ -3,17 +3,16 @@
 <h1 align="center">Hey there, I'm Clickify 👋</h1>
 
 <p align="center">
-  <em>💻 C Programmer • 🧠 DSA Enthusiast • 🌐 Web Developer • 🍜 Anime Enjoyer</em>
+  <em>💻 C Programmer • 🧠 DSA solver • 🌐 Web Developer • 🍜 Anime Enjoyer</em>
 </p>
 
 ---
 
 ### 🚀 About Me  
-- ⚡ Passionate about **C programming** and low-level problem-solving  
-- 🧩 Exploring **Data Structures & Algorithms** every day  
-- 🌱 Currently learning **web development** (HTML, CSS, Tailwind)  
+- ⚡ Passionate about **computer engineering**  
+- 🧩 Exploring **random technologies** every day    
 - ☕ Coffee = Code fuel (2 cups minimum 😅)  
-- 🎯 2025 Goals: Contribute to Open Source & master system-level programming  
+- 🎯 2025 Goals: Master fundamentals!
 
 ---
 
@@ -27,19 +26,6 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </p>
 
 ---
