@@ -46,7 +46,7 @@
 ---
 
 ### 🎬 Fun Fact  
-> “When I’m not debugging C code, I’m probably watching anime or questioning my existence.”
+> “When I’m not debugging code, I’m probably watching anime or questioning my existence.”
 
 ---
 ⭐ **If you like what I do, drop a star on my repos!**
