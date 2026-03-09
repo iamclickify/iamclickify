@@ -12,7 +12,7 @@
 - ⚡ Passionate about **computer engineering**  
 - 🧩 Exploring **tech stack** every day    
 - ☕ Coffee = Code fuel (2 cups minimum 😅)  
-- 🎯 2026 Goals: Data structures and algorithms!
+- 🎯 2026 Goals: Survival.
 
 ---
 
@@ -34,23 +34,4 @@
   
 </p>
 
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/iamclickify" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-teredesai-336ba0370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 🎬 Fun Fact  
-> “When I’m not debugging code, I’m probably watching anime or questioning my existence.”
-
----
-⭐ **If you like what I do, drop a star on my repos!**
+<h3 align="center">“The more i try to detach myself from AI the more i get attracted to it ~Shubham Teredesai 2026”</h3>
