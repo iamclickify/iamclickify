@@ -34,4 +34,4 @@
   
 </p>
 
-<h3 align="center">“The more i try to detach myself from AI the more i get attracted to it ~Shubham Teredesai 2026”</h3>
+<h3 align="center">“The more i try to detach myself from AI, the more i get attracted to it ~Shubham Teredesai 2026”</h3>
