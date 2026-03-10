@@ -11,7 +11,7 @@
 ### 🚀 About Me  
 - ⚡ Passionate about **computer engineering**  
 - 🧩 Exploring **tech stack** every day    
-- ☕ Coffee = Code fuel (2 cups minimum 😅)  
+- ☕ Caffeine addict
 - 🎯 2026 Goals: Survival.
 
 ---
