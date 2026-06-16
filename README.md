@@ -1,8 +1,7 @@
-<!-- Replace EVERY `yourusername` with your actual GitHub username -->
 <h2>Hi, I'm Clickify.</h2>
-<p>I learn by breaking things and rebuilding them until they stop complaining.</p>
+<samp><p>I learn by breaking things and rebuilding them until they stop complaining.</p>
 <p>Currently obsessed with AI, infrastructure, and figuring out how the internet survives itself. Interested in building resilient AI infrastructure.
-Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p>
+Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
 
 <p align="left">
   <img
@@ -12,7 +11,7 @@ Outside tech, you'll find me watching anime, playing badminton, and chasing rand
   />
 </p>
 
-### Tech Stack I currently use-
+### <samp>Tech stack I currently use- </samp>
 
 <p align="left">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -26,4 +25,4 @@ Outside tech, you'll find me watching anime, playing badminton, and chasing rand
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />        
 </p>
 
-<h3 align="center">“The more I try to detach myself from AI, the more I get obsessed with it ~Clickify 2026”</h3>
+<h3 align="center">“The more I try to detach myself from AI, the more I get obsessed with it." ~Clickify 2026</h3>
