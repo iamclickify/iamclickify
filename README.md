@@ -3,13 +3,25 @@
 <p>Currently obsessed with AI, infrastructure, and figuring out how the internet survives itself. Interested in building resilient AI infrastructure.
 Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
 
-<p align="left">
-  <img
-    src="https://github.com/user-attachments/assets/c4276610-57d3-48ce-aa8f-67af60fa17c8"
-    alt="deku_working"
-    width="700"
-  />
-</p>
+<table>
+<tr>
+<td width="75%">
+
+<img
+  src="https://github.com/user-attachments/assets/c4276610-57d3-48ce-aa8f-67af60fa17c8"
+  alt="deku_working"
+  width="500"
+/>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img width="280" height="280" alt="l-lawliet-death-note" src="https://github.com/user-attachments/assets/fd203eac-4895-4d98-9c36-e97897855e3b" />
+
+</td>
+</tr>
+</table>
 
 ### <samp>Tech stack I currently use- </samp>
 
