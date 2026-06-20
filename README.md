@@ -37,4 +37,6 @@ Outside tech, you'll find me watching anime, playing badminton, and chasing rand
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />        
 </p>
 
-<h3 align="center">“The more I try to detach myself from AI, the more I get obsessed with it." ~Clickify 2026</h3>
+---
+
+> “The more I try to detach myself from AI, the more I get obsessed with it." ~Clickify 2026
