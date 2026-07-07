@@ -38,3 +38,5 @@ Outside tech, you'll find me watching anime, playing badminton, and chasing rand
 </p>
 
 > “The more I try to detach myself from AI, the more I get obsessed with it." ~Clickify 2026
+
+  ![](https://komarev.com/ghpvc/?username=iamclickify&style=plastic)
