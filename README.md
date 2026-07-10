@@ -1,7 +1,6 @@
 <h2>Hi, I'm Clickify.</h2>
 <samp><p>I learn by breaking things and rebuilding them until they stop complaining.</p>
-<p>Currently obsessed with AI, infrastructure, and figuring out how the internet survives itself. Interested in building resilient AI infrastructure.
-Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
+<p>Currently obsessed with AI, infrastructure, linux and figuring out how the internet survives itself. Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
 
 <table>
 <tr>
