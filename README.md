@@ -1,5 +1,4 @@
 <h2>Hey, I'm Clickify :3 </h2>
-<h3>About me: </h3>
 <samp><p>I learn by breaking things and rebuilding them until they stop complaining.</p>
 <p>Currently obsessed with AI, infrastructure, linux and figuring out how the internet survives itself. Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
 
@@ -11,7 +10,7 @@
   src="https://github.com/user-attachments/assets/c4276610-57d3-48ce-aa8f-67af60fa17c8"
   alt="deku_working"
   width="1000"
-  height="450"
+  height="400"
 />
 
 
