@@ -1,19 +1,11 @@
-<h2>Hey, I'm Clickify :3 </h2>
+<h2>Hey, I'm Clickify  </h2>
 <samp><p>I learn by breaking things and rebuilding them until they stop complaining.</p>
-<p>Currently obsessed with AI, infrastructure, linux and figuring out how the internet survives itself. Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
+<p>Currently obsessed with AI, infrastructure, Linux, and figuring out how the internet survives itself. Outside tech, you'll find me watching anime, playing badminton, and chasing random bits of knowledge I'll probably never need.</p></samp>
 
 <table>
 <tr>
 <td width="75%">
-
-<img
-  src="https://github.com/user-attachments/assets/c4276610-57d3-48ce-aa8f-67af60fa17c8"
-  alt="deku_working"
-  width="1000"
-  height="400"
-/>
-
-
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/d32c4ed1-9f82-4413-8914-69082b526789" />
 </tr>
 </table>
 
